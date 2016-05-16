@@ -57,3 +57,4 @@ end
 
 EOF
 
+ruby RapelClient.connect
